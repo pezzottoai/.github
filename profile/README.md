@@ -1,5 +1,10 @@
 # pezzotto.ai
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://pezzotto.ai/assets/logo-dark.svg">
+  <img src="https://pezzotto.ai/assets/logo.svg" alt="pezzotto.ai" width="480">
+</picture>
+
 > **pezzotto** /pe'tsɔt.to/ — Neapolitan. A knock-off: the bootleg CD on a blanket outside
 > the station, the handbag with one extra letter in the logo. Also: something patched
 > together from pieces (*pezzi*) that mostly works.
