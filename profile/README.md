@@ -15,8 +15,8 @@ the name of the original right on the price tag.
 
 | | | |
 |---|---|---|
-| **01** | **La bancarella** — the catalog | A curated index of open-source, vibecoded clones of closed-source apps: original, clone, license, stack, feature coverage, maintenance status, and a *pezzotto grade*. Lives in [pezzottoai.github.io](https://github.com/pezzottoai/pezzottoai.github.io), rendered at **[pezzotto.ai](https://pezzotto.ai)**. |
-| **02** | **La fabbrica** — the harness | A tool that drives a coding agent from a closed-source target to a working clone: `spec` the original from public behaviour, `build` it feature by feature, `grade` the result, `stall` it into the catalog. |
+| **01** | **'O bancariello** — the catalog | A curated index of open-source, vibecoded clones of closed-source apps: original, clone, license, stack, feature coverage, maintenance status, and a *pezzotto grade*. Lives in [pezzottoai.github.io](https://github.com/pezzottoai/pezzottoai.github.io), rendered at **[pezzotto.ai](https://pezzotto.ai)**. |
+| **02** | **'A fraveca** — the harness | A tool that drives a coding agent from a closed-source target to a working clone: `spec` the original from public behaviour, `build` it feature by feature, `grade` the result, `stall` it into the catalog. |
 
 ## Repositories
 
