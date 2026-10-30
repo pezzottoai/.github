@@ -18,6 +18,14 @@ the name of the original right on the price tag.
 | **01** | **La bancarella** — the catalog | A curated index of open-source, vibecoded clones of closed-source apps: original, clone, license, stack, feature coverage, maintenance status, and a *pezzotto grade*. Lives in [pezzottoai.github.io](https://github.com/pezzottoai/pezzottoai.github.io), rendered at **[pezzottoai.github.io](https://pezzottoai.github.io)**. |
 | **02** | **La fabbrica** — the harness | A tool that drives a coding agent from a closed-source target to a working clone: `spec` the original from public behaviour, `build` it feature by feature, `grade` the result, `stall` it into the catalog. |
 
+## Repositories
+
+| | |
+|---|---|
+| [pezzottoai.github.io](https://github.com/pezzottoai/pezzottoai.github.io) | the site and the catalog of clones (`catalog/clones.json`) |
+| [launcher](https://github.com/pezzottoai/launcher) | **pezzotto.ai launcher**: cross-platform installer and launcher for open-source apps, Rust + egui |
+| [launcher-catalog](https://github.com/pezzottoai/launcher-catalog) | the apps the launcher can install, one JSON manifest each |
+
 ## The pezzotto grade
 
 How far away does it still fool you?
